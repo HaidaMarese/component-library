@@ -18,8 +18,14 @@ npm install
 src/
   components/
     AlertBox/
+      AlertBox.tsx
+      AlertBox.test.tsx
     UserProfileCard/
+      UserProfileCard.tsx
+      UserProfileCard.test.tsx
     ProductDisplay/
+      ProductDisplay.tsx
+      ProductDisplay.test.tsx
   types/
     index.ts
 ```
