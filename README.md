@@ -38,7 +38,7 @@ src/
 
 ## Clone and Run
 ```bash
-git clone https://github.com/your-username/component-library.git
+git clone https://github.com/HaidaMarese/component-library.git
 cd component-library
 npm install
 npm run dev
